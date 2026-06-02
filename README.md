@@ -21,10 +21,10 @@
 ## 🛠 Инструкция по установке
 
 1. **Клонируйте репозиторий:**
-   ```bash
-   git clone https://github.com/rimuru3573/news-obsidian-parser.git
-   cd news-obsidian-parser
-    ```
+```bash
+git clone https://github.com/rimuru3573/news-obsidian-parser.git
+cd news-obsidian-parser
+```
 
 2. **Установите зависимости:**
 ```bash
