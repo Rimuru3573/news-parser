@@ -22,10 +22,9 @@
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/yourusername/news-obsidian-parser.git](https://github.com/yourusername/news-obsidian-parser.git)
+   git clone https://github.com/rimuru3573/news-obsidian-parser.git
    cd news-obsidian-parser
-
-```
+    ```
 
 2. **Установите зависимости:**
 ```bash
